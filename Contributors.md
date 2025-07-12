@@ -1,4 +1,8 @@
-# Contributors
+ Edit for learning purposes – by [ASHEMM]
+
+
+Add my name to contributors list
+
 - [Kumar Nishant](https://github.com/K-Nishant-18) - First step toward open source contribution.
 - [Alokik Garg](https://github.com/alokikgarg)
 - [Wang Chao](https://github.com/Alleys31) - Hello world.
